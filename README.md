@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a Python function designed to calculate the average of a list of numbers. The function silently returns 0 when the input list is empty which may not be intuitive.  The solution introduces more robust error handling to provide a clearer indication of an empty input.
